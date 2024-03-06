@@ -1,7 +1,10 @@
-body{
-    background-color: rgb(201, 60, 60);
+:root{
+    --red:#aa1f1f;
 }
 
+body{
+    background-color:var(--red) ;
+ }
 img{
     width: 35%;
 }
