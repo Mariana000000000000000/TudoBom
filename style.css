@@ -1,5 +1,7 @@
 :root{
     --red:#aa1f1f;
+    --mariana: blue;
+    --branco: white; 
 }
 
 body{
@@ -16,6 +18,7 @@ img{
     }
 section{
     display: flex;
+    background-color: var(--branco);
 }
 
 
