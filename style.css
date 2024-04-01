@@ -16,7 +16,7 @@ img{
     justify-content: space-around;
     align-items: center;
     }
-section{
+.intro{
     display: flex;
     background-color: var(--branco);
     border-radius: 39px;
