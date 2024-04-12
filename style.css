@@ -28,7 +28,7 @@ img{
     padding: 77px;
 }
 
-.grupo{
+#grupo{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     background-color: var(--branco);
