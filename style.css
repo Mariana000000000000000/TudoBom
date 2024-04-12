@@ -1,3 +1,7 @@
+*{
+margin: 0;
+}
+
 :root{
     --red:#aa1f1f;
     --mariana: blue;
