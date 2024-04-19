@@ -3,7 +3,7 @@ margin: 0;
 }
 
 :root{
-    --red:#aa1f1f;
+    --white:var(--branco);
     --mariana: blue;
     --branco: white; 
 }
