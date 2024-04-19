@@ -35,7 +35,7 @@ img{
 
 #grupo{
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 25% 25% 25%;
     background-color: rgb(170, 18, 18);
     text-align: center;
   margin-bottom: 20px;
