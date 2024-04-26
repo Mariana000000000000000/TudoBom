@@ -24,7 +24,6 @@ img{
 .intro{
     display: flex;
     background-color: var(--branco);
-    border-radius: 39px;
     border-style: dotted;
     border-width: 12px;
    
