@@ -16,7 +16,7 @@ img{
     width: 35%;
 }
  header {
-    display: flex;
+    
     justify-content: space-around;
     align-items: center;
     background-color: grey;
