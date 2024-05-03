@@ -59,8 +59,9 @@ header a{
 
 .primerio{
     display: flex;
+    align-items: center;
 }
 
 .segundo{
-    display: flex;
+    text-align: right;
 }
