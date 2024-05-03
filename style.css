@@ -36,7 +36,7 @@ img{
     grid-template-columns: 33% 33% 33%;
     background-image: url(./Rectangle\ 8.png);
     text-align: center;
-  margin-bottom: 0px;
+ margin: 0;
 }
 
 .img-grupo{
@@ -50,6 +50,7 @@ width: 40%;
 footer{
     background-color: grey;
     color: #9b100f;
+    margin: 0;
 }
 
 header a{
@@ -66,3 +67,6 @@ header a{
     text-align: right;
 }
 
+footer p{
+    margin: 0;
+}
