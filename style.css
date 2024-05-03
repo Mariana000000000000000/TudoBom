@@ -1,6 +1,4 @@
-*{
-      margin: 1%;
-}
+
 
 :root{
     --white:var(--branco);
@@ -10,8 +8,11 @@
 
 body{
     background-color:var(--red) ;
+    margin: 0;
  }
- 
+ *{
+    margin: 1%;
+}
 img{
     width: 35%;
 }
