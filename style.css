@@ -71,3 +71,6 @@ header a{
 footer p{
     margin: 0;
 }
+.intro {
+    text-align: center;
+}
